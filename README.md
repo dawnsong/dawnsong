@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning/signal processing for HealthCare/Neuroimaging/CryoEM.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me xiaowei.song@umbc.edu .
+- 📫 How to reach me dawnwei.song@gmail.com .
 
 <!---
 dawnsong/dawnsong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
