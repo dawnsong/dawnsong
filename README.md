@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xiaowei Song
 - 👀 I’m interested in machine learning/signal processing for HealthCare/Neuroimaging/CryoEM.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CUDA/Spark, deep graphical learning.
+- 💞️ I’m looking to collaborate on robust big data analysis.
 - 📫 How to reach me dawnwei.song@gmail.com .
 
 <!---
